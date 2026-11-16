@@ -1,4 +1,4 @@
-Simple Banking System (PS 9)
+Simple Banking System 
 
 A console-based banking application written in Python 3. Customers can open an account, deposit money, withdraw money, transfer money to another account and check their balance. All account data is saved in a text file (bank.txt), so it is not lost when the program is closed.
 
