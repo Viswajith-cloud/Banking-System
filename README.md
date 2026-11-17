@@ -1,8 +1,15 @@
-Simple Banking System 
+Student Details:
+
+Name: D.Viswajith
+Enrollment No: RU-26-01108
+Course: B.Tech Computer Science and Engineering (1st Semester)
+University: Rungta International Skills University
+
+Simple Banking System:
 
 A console-based banking application written in Python 3. Customers can open an account, deposit money, withdraw money, transfer money to another account and check their balance. All account data is saved in a text file (bank.txt), so it is not lost when the program is closed.
 
-Problem Statement
+Problem Statement:
 
 Create a banking application that lets customers open an account, deposit, withdraw, transfer money and check their balance, with all data stored in a file.
 
@@ -39,7 +46,7 @@ Concepts Used:
 4. File Handling: reading and writing bank.txt using pathlib.Path
 5. Lists: each account is stored as [account_number, name, balance
 
-Project Output
+Project Output:
 
 Screenshots of the program execution are available in the "screenshots" folder.
 
